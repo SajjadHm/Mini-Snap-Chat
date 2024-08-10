@@ -43,9 +43,11 @@ To run this project, you will need:
 
 Here are some examples of the results obtained using this project:
 
-- **Original Image**: ![Original Image](1.png)
-- **Processed Image**: ![Processed Image](celeb.png)
--  **Landmarks**: ![lndmarks](celeblandmarks.png)
+ ![Original Image](1.png)
+ ![Processed Image](celeb.png)
+ ![lndmarks](celeblandmarks.png)
+ ![final](celebmasked.png)
+ ![multiface](maked.png)
 
 ## References
 
