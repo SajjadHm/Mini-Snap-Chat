@@ -47,7 +47,8 @@ Here are some examples of the results obtained using this project:
  ![Processed Image](celeb.png)
  ![lndmarks](celeblandmarks.png)
  ![final](celebmasked.png)
- ![multiface](maked.png)
+ 
+ ![multiface](masked.png)
 
 ## References
 
