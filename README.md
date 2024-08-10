@@ -43,8 +43,9 @@ To run this project, you will need:
 
 Here are some examples of the results obtained using this project:
 
-- **Original Image**: ![Original Image](path/to/1.png)
-- **Processed Image with Joker Mask**: ![Processed Image](path/to/processed_image_1.png)
+- **Original Image**: ![Original Image](1.png)
+- **Processed Image**: ![Processed Image](celeb.png)
+-  **Landmarks**: ![lndmarks](celeblandmarks.png)
 
 ## References
 
